@@ -376,7 +376,7 @@ img {
           padding-left: 0; } }
     .header-area .academy-main-menu .calling-info {
       position: relative;
-      padding-left: 80px;
+      padding-left: 40px;
       overflow: hidden; }
       @media only screen and (min-width: 992px) and (max-width: 1199px) {
         .header-area .academy-main-menu .calling-info {
