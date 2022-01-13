@@ -350,7 +350,7 @@ img {
       background-color: #f5f7fa;
       height: 85px;
       padding: 0; }
-      @media only screen and (min-width: 768px) and (max-width: 991px) {
+      @media only screen and (min-width: 868px) and (max-width: 991px) {
         .header-area .academy-main-menu .classy-navbar {
           padding: 0;
           padding-left: 2em; } }
@@ -365,7 +365,7 @@ img {
           color: #69bc5f; }
     .header-area .academy-main-menu .classynav {
       padding-left: 2em; }
-      @media only screen and (min-width: 992px) and (max-width: 1199px) {
+      @media only screen and (min-width: 999px) and (max-width: 1199px) {
         .header-area .academy-main-menu .classynav {
           padding-left: 1em; } }
       @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -402,7 +402,7 @@ img {
             width: 45px;
             height: 45px;
             border: 2px solid #ffffff;
-            border-radius: 50%;
+            border-radius: 60%;
             display: inline-block;
             line-height: 41px;
             font-size: 18px;
